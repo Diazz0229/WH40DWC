@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AdvancedSessions.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UE_projects\WH40DC\Intermediate\Build\Win64\x64\WH40DCEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"E:\UE_projects\WH40DC\Plugins\AdvancedSessions-5-3\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.1.cpp.obj"
+"E:\UE_projects\WH40DC\Plugins\AdvancedSessions-5-3\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.2.cpp.obj"
+"E:\UE_projects\WH40DC\Plugins\AdvancedSessions-5-3\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.3.cpp.obj"
+"E:\UE_projects\WH40DC\Plugins\AdvancedSessions-5-3\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Default.rc2.res"
+/OUT:"E:\UE_projects\WH40DC\Plugins\AdvancedSessions-5-3\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\UnrealEditor-AdvancedSessions.lib"
