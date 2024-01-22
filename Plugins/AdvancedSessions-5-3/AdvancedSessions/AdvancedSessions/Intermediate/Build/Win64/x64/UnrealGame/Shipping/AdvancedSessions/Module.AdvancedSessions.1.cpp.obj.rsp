@@ -1,11 +1,11 @@
-"E:\UE_projects\WH40DC\Plugins\AdvancedSessions-5-3\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Shipping\AdvancedSessions\Module.AdvancedSessions.1.cpp"
-/FI"E:\UE_projects\WH40DC\Intermediate\Build\Win64\x64\WH40DC\Shipping\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/FI"E:\UE_projects\WH40DC\Plugins\AdvancedSessions-5-3\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Shipping\AdvancedSessions\Definitions.AdvancedSessions.h"
-/Yu"E:\UE_projects\WH40DC\Intermediate\Build\Win64\x64\WH40DC\Shipping\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/Fp"E:\UE_projects\WH40DC\Intermediate\Build\Win64\x64\WH40DC\Shipping\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
-/Fo"E:\UE_projects\WH40DC\Plugins\AdvancedSessions-5-3\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Shipping\AdvancedSessions\Module.AdvancedSessions.1.cpp.obj"
-/sourceDependencies "E:\UE_projects\WH40DC\Plugins\AdvancedSessions-5-3\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Shipping\AdvancedSessions\Module.AdvancedSessions.1.cpp.dep.json"
-@"E:\UE_projects\WH40DC\Plugins\AdvancedSessions-5-3\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Shipping\AdvancedSessions\AdvancedSessions.Shared.rsp"
+"E:\UE_projects\WH40DWC_GitHub\Plugins\AdvancedSessions-5-3\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Shipping\AdvancedSessions\Module.AdvancedSessions.1.cpp"
+/FI"E:\UE_projects\WH40DWC_GitHub\Intermediate\Build\Win64\x64\WH40DC\Shipping\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/FI"E:\UE_projects\WH40DWC_GitHub\Plugins\AdvancedSessions-5-3\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Shipping\AdvancedSessions\Definitions.AdvancedSessions.h"
+/Yu"E:\UE_projects\WH40DWC_GitHub\Intermediate\Build\Win64\x64\WH40DC\Shipping\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/Fp"E:\UE_projects\WH40DWC_GitHub\Intermediate\Build\Win64\x64\WH40DC\Shipping\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
+/Fo"E:\UE_projects\WH40DWC_GitHub\Plugins\AdvancedSessions-5-3\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Shipping\AdvancedSessions\Module.AdvancedSessions.1.cpp.obj"
+/sourceDependencies "E:\UE_projects\WH40DWC_GitHub\Plugins\AdvancedSessions-5-3\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Shipping\AdvancedSessions\Module.AdvancedSessions.1.cpp.dep.json"
+@"E:\UE_projects\WH40DWC_GitHub\Plugins\AdvancedSessions-5-3\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Shipping\AdvancedSessions\AdvancedSessions.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

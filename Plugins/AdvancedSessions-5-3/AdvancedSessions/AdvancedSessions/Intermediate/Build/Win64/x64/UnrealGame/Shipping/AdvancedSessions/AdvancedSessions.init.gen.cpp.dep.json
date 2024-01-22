@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue_projects\\wh40dwc_github\\plugins\\advancedsessions-5-3\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsessions\\uht\\advancedsessions.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue_projects\\wh40dwc_github\\intermediate\\build\\win64\\x64\\wh40dc\\shipping\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "e:\\ue_projects\\wh40dwc_github\\plugins\\advancedsessions-5-3\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\advancedsessions\\definitions.advancedsessions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
