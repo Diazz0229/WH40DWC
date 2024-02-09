@@ -1,10 +1,10 @@
-"E:\UE_projects\WH40DWC_GitHub\Plugins\AdvancedSessions-5-3\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UnrealGame\Inc\AdvancedSessions\UHT\CreateSessionCallbackProxyAdvanced.gen.cpp"
+"E:\UE_projects\WH40DWC_GitHub\Plugins\AdvancedSessions-5-3\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Shipping\AdvancedSessions\Module.AdvancedSessions.3.cpp"
 /FI"E:\UE_projects\WH40DWC_GitHub\Intermediate\Build\Win64\x64\WH40DC\Shipping\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
 /FI"E:\UE_projects\WH40DWC_GitHub\Plugins\AdvancedSessions-5-3\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Shipping\AdvancedSessions\Definitions.AdvancedSessions.h"
 /Yu"E:\UE_projects\WH40DWC_GitHub\Intermediate\Build\Win64\x64\WH40DC\Shipping\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
 /Fp"E:\UE_projects\WH40DWC_GitHub\Intermediate\Build\Win64\x64\WH40DC\Shipping\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
-/Fo"E:\UE_projects\WH40DWC_GitHub\Plugins\AdvancedSessions-5-3\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Shipping\AdvancedSessions\CreateSessionCallbackProxyAdvanced.gen.cpp.obj"
-/sourceDependencies "E:\UE_projects\WH40DWC_GitHub\Plugins\AdvancedSessions-5-3\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Shipping\AdvancedSessions\CreateSessionCallbackProxyAdvanced.gen.cpp.dep.json"
+/Fo"E:\UE_projects\WH40DWC_GitHub\Plugins\AdvancedSessions-5-3\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Shipping\AdvancedSessions\Module.AdvancedSessions.3.cpp.obj"
+/sourceDependencies "E:\UE_projects\WH40DWC_GitHub\Plugins\AdvancedSessions-5-3\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Shipping\AdvancedSessions\Module.AdvancedSessions.3.cpp.dep.json"
 @"E:\UE_projects\WH40DWC_GitHub\Plugins\AdvancedSessions-5-3\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealGame\Shipping\AdvancedSessions\AdvancedSessions.Shared.rsp"
 /Zc:inline
 /nologo
