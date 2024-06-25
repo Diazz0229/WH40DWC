@@ -21,6 +21,10 @@
 		{
 			"Name": "SkeletalMerging",
 			"Enabled": true
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		}
 	]
 }
